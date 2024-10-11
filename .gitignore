@@ -1,0 +1,9 @@
+.vscode
+preprocess
+
+.fifodm
+*.pyc
+__pycache__/
+
+visuals/
+docs/
